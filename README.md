@@ -17,3 +17,8 @@ This section encompasses various .py files to generate the time series data corr
 **Adding_new_connection.py**: Designed to add new virtual connections to the network.
 
 **Time_series_code.py**: This script generates the time series data for all states outlined within our model framework.
+
+## Contact information
+**Viney Kumar:** [vk981@snu.edu.in](mailto:vk981@snu.edu.in)
+
+**Samit Bhattacharyya:** [samit.b@snu.edu.in](mailto:samit.b@snu.edu.in)
