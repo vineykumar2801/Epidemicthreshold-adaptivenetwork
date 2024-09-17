@@ -1,5 +1,5 @@
 ## Overview
-The content within this repository comprises the necessary code to replicate the figures outlined in the article titled "Estimating epidemic threshold under individual vaccination behavior and adaptive social connections: A game-theoretic complex network model" by Viney Kumar and Samit Bhattacharyya.
+The content within this repository comprises the necessary code to replicate the figures outlined in the article titled "Estimating the epidemic threshold under individual vaccination behaviour and adaptive social connections: A game-theoretic complex network model" by Viney Kumar, Chris T. Bauch, and Samit Bhattacharyya.
 
 ## Time Series Simulation Code
 This section encompasses various .py files to generate the time series data corresponding to each result presented in the aforementioned article.
@@ -32,5 +32,5 @@ We have simulated Matlab code to generate plots for all the .csv files obtained 
 
 ## Contact information
 **Viney Kumar:** [vk981@snu.edu.in](mailto:vk981@snu.edu.in)
-
+**Chris T. Bauch:** [cbauch@uwaterloo.ca](mailto:cbauch@uwaterloo.ca)
 **Samit Bhattacharyya:** [samit.b@snu.edu.in](mailto:samit.b@snu.edu.in)
